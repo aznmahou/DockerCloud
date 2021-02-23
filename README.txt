@@ -1,7 +1,3 @@
-This is the COMP598 Project by
--Anmoljeet Gill, ID:260568705
--Brian Huynh, ID:260569992
-
 ####################################################################################
 To start run python manager.py
 This will launch the command window, there are now the following commands
